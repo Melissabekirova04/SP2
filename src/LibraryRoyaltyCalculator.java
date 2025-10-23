@@ -1,6 +1,3 @@
-// LibraryRoyaltyCalculator.java
-// Simpel test af systemet uden afrunding (ingen Math.round, ingen String.format)
-
 public class LibraryRoyaltyCalculator {
 
     public static void main(String[] args) {
