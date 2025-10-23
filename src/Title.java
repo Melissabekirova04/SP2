@@ -1,6 +1,3 @@
-// Title.java
-// Superklasse som i klassediagrammet, men uden brug af .equals()
-
 public abstract class Title {
 
     private String title;
