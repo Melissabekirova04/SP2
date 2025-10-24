@@ -13,7 +13,7 @@ public class Author {
         titles.add(title);
     }
 
-    // Læg alle titlers udbetaling sammen og rund til 2 decimaler
+    // Lægger alle titlers udbetaling sammen og rund til 2 decimaler
     public double calculateRoyalties() {
         double sum = 0.0;
         for (Title t : titles) {

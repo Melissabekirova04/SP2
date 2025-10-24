@@ -32,7 +32,7 @@ public abstract class Title {
     // Konverterer litteraturtype til en talværdi
     protected double convertLiteratureType() {
 
-        // Lav om til store bogstaver så vi kan sammenligne simpelt
+        // Laver om til store bogstaver så vi kan sammenligne simpelt
         String t = literatureType.toUpperCase();
 
         // Brug switch i stedet for equals
